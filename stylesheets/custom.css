@@ -1,9 +1,17 @@
-.tutorials {
-  
+.tutorials:after,
+.tutorials:before{
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.tutorials:after {
+  *zoom: 1;
 }
 
 .tutorial {
   width: 150px;
+  float: left;
 }
 
 .tutorial p {
