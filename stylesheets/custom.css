@@ -5,3 +5,7 @@
 .tutorial {
   width: 150px;
 }
+
+.tutorial p {
+  margin-top: 0;
+}
