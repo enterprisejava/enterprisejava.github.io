@@ -18,3 +18,8 @@
 .tutorial p {
   margin-top: 0;
 }
+
+.tutorial img {
+  width: 100px;
+  height: 100px;
+}
