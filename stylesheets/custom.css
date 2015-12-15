@@ -12,6 +12,7 @@
 .tutorial {
   width: 150px;
   float: left;
+  margin-right: 10px;
 }
 
 .tutorial p {
